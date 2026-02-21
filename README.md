@@ -23,6 +23,10 @@ scroll-triggered animations, and crypto-native branding.
 
 [Live Site](https://masonprime.store) · [Telegram Bot](https://t.me/Masonprimebot) · [Server Status](http://status.masonprime.store/status/mason)
 
+&nbsp;
+
+<img src="public/preview.png" alt="MasonPrime — Hero Section" width="100%" />
+
 </div>
 
 &nbsp;
