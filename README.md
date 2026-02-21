@@ -8,6 +8,10 @@
 
 &nbsp;
 
+<img src="public/preview.png" alt="MasonPrime — Hero Section" width="100%" />
+
+&nbsp;
+
 [![TypeScript](https://img.shields.io/badge/TypeScript-0b0d17?style=for-the-badge&logo=typescript&logoColor=7c6fe6)](https://www.typescriptlang.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-0b0d17?style=for-the-badge&logo=threedotjs&logoColor=7c6fe6)](https://threejs.org/)
 [![GSAP](https://img.shields.io/badge/GSAP-0b0d17?style=for-the-badge&logo=greensock&logoColor=7c6fe6)](https://gsap.com/)
@@ -21,11 +25,7 @@ scroll-triggered animations, and crypto-native branding.
 
 &nbsp;
 
-[Live Site](https://masonprime.store) · [Telegram Bot](https://t.me/Masonprimebot) · [Server Status](http://status.masonprime.store/status/mason)
-
-&nbsp;
-
-<img src="public/preview.png" alt="MasonPrime — Hero Section" width="100%" />
+[Live Site](https://masonprime.app) · [Telegram Bot](https://t.me/Masonprimebot) · [Server Status](http://status.masonprime.store/status/mason)
 
 </div>
 
@@ -88,7 +88,7 @@ MasonPrime is a VPN service built specifically for users in Iran to bypass GFW c
 | **Animation** | GSAP 3.14 · ScrollTrigger |
 | **i18n** | Custom module — `data-i18n` attribute system |
 | **Fonts** | Outfit · Space Mono · Vazirmatn (FA) |
-| **Deployment** | Static — any CDN or hosting platform |
+| **Deployment** | GitHub Pages · GitHub Actions CI/CD |
 
 &nbsp;
 
