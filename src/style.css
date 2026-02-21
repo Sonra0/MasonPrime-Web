@@ -1396,7 +1396,7 @@ html[lang="fa"] .trust-number {
 
   .steps-grid { grid-template-columns: repeat(2, 1fr); }
   .step-card::after { display: none !important; }
-  .nav-links, .nav-cta, #lang-toggle { display: none; }
+  .nav-links, .nav-cta { display: none; }
   .nav-mobile-toggle { display: flex; }
   .footer-top { flex-direction: column; }
   .footer-links { gap: 32px; }
